@@ -82,7 +82,7 @@ app.use(bodyParser.json());
 
 
 
-const PORT = process.env.PORT || 4242;
+const PORT = process.env.PORT || "10000";
 
 
 
